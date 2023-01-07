@@ -23,6 +23,7 @@ namespace Program-M
             static void WaitForAnyKeyPressed()
             {
             Console.WriteLine("Press any key to close....");
+            Console.WriteLine("Bye World!");
             Console.ReadKey();
             }             
         }
