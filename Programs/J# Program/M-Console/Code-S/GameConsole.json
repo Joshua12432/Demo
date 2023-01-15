@@ -1,0 +1,1 @@
+﻿{ "key": "alt+\\", "command": "editor.action.selectToBracket", "args": { "selectBrackets": false } }

@@ -1,0 +1,11 @@
+﻿{
+	"Console.log": {
+	 	"scope": "javascript,typescript",
+	 	"prefix": "cl",
+	 	"body": [
+	 		"console.log('${1:Here}');",
+	 		"$2"
+	 	],
+	 	"description": "Log output to console"
+  }
+}
